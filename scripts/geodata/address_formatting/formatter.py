@@ -18,7 +18,7 @@ from geodata.math.sampling import weighted_choice, cdf
 from geodata.text.tokenize import tokenize, tokenize_raw, token_types
 from geodata.encoding import safe_decode
 
-FORMATTER_GIT_REPO = 'https://github.com/OpenCageData/address-formatting'
+FORMATTER_GIT_REPO = 'https://github.com/SORaD-1/OCDAddressFormat'
 
 this_dir = os.path.realpath(os.path.dirname(__file__))
 
